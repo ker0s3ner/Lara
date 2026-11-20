@@ -28,6 +28,8 @@ npm ci
 
 The full toolchain requirements are in the upstream [How to Contribute](https://github.com/microsoft/vscode/wiki/How-to-Contribute) guide.
 
+Node.js 24.18.0 is pinned in `.nvmrc`. See also [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md) and [AGENTS.md](AGENTS.md).
+
 ## Staying in sync with upstream
 
 ```bash
